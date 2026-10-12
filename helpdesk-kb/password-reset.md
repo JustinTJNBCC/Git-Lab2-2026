@@ -10,8 +10,9 @@ Priority: Standard
 
 1. Verify the user's identity.
 2. Locate the user account.
-3. Generate a temporary password.
-4. Require password change at next login.
+3. If it doesn't exist return a reasonable error message
+4. Generate a temporary password.
+5. Require password change at next login.
 
 ## Escalation
 
