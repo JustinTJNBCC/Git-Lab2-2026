@@ -1,5 +1,7 @@
 # Wi‑Fi Troubleshooting Guidance
 
+# Wi‑Fi Troubleshooting Guide/Help
+
 ## Current Revision
 
 Document Owner: Help Desk Team
